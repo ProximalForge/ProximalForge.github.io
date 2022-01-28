@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>github pages</title>
+    <link href="https://proximalforge.github.io/feed.xml" rel="self" />
+    <link href="https://proximalforge.github.io" />
+    <updated>2022-01-28T15:19:28-07:00</updated>
+    <author>
+        <name>me</name>
+    </author>
+    <id>https://proximalforge.github.io</id>
+
+    <entry>
+        <title>test</title>
+        <author>
+            <name>me</name>
+        </author>
+        <link href="https://proximalforge.github.io/test.html"/>
+        <id>https://proximalforge.github.io/test.html</id>
+
+        <updated>2022-01-28T15:19:28-07:00</updated>
+            <summary>
+                <![CDATA[
+                    test
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>test</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
